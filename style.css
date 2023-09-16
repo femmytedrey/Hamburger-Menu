@@ -6,6 +6,11 @@
 body{
     font-family: sans-serif;
     background: rgb(182, 182, 182);
+    overflow: hidden;
+}
+.container{
+    width: 100%;
+    
 }
 
 nav{
@@ -92,6 +97,70 @@ a:hover{
 .devColor{
     color: #006d6d;
 }
+
+/* .top{
+    width: 100%;
+    padding: 0px 70px 0px 70px;
+    height: 700px;
+    background: white;
+    display: flex;
+}
+
+.left{
+    height: 100%;
+    width: 50%;
+    padding-left: 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intro{
+    font-size: 32px;
+
+}
+
+.name{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.right{
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inner{
+    height: 450px;
+    width: 450px;
+    background: white;
+    background: radial-gradient(circle, #9897a0 25%, transparent 26%);
+    background-size: 1em 1em;
+    background-color: #ffffff;
+    opacity: 1;
+    border-radius: 0px 0px 50% 0px;
+}
+.circle{
+    height: 450px;
+    width: 450px;
+    background: rgb(206, 255, 255);
+    border-radius: 50% 0% 50% 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding-top: 150px;
+}
+.container{
+    overflow: hidden;
+} */
+
 
 /* Tablet Menu */
 
